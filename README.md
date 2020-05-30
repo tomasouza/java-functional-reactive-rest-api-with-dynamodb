@@ -11,5 +11,4 @@ as a guide of the development.
 
 Now, about the technologies used:
 
-* [Spring-boot](https://spring.io/projects/spring-boot)
-For supporting the Dependency-Inversion Solid principle, start the embedded reactive server [Netty](https://netty.io) and manage the configurations of the project
+* [Spring-boot](https://spring.io/projects/spring-boot) with an embedded reactive server [Netty](https://netty.io)
