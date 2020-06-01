@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>br.com.oi-garcom.api</groupId>
+	<artifactId>users</artifactId>
+	<version>0.0.1</version>
+	<packaging>pom</packaging>
+
+	<name>users</name>
+	<description>oi-garcom users api</description>
+
+	<properties>
+		<java.version>14</java.version>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<maven.compiler.source>${java.version}</maven.compiler.source>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.target>${java.version}</maven.compiler.target>
+	</properties>
+
+	<modules>
+		<module>users-web</module>
+		<module>users-core</module>
+		<module>users-data</module>
+	</modules>
+
+
+</project>
