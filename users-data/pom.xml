@@ -18,7 +18,7 @@
         <aws.java.sdk.version>1.11.774</aws.java.sdk.version>
         <aws.dynamo.local.version>1.12.0</aws.dynamo.local.version>
         <br.com.oi-garcom.users.core.version>0.0.1</br.com.oi-garcom.users.core.version>
-        <com.google.crypto.tink>1.4.0-rc1</com.google.crypto.tink>
+        <com.google.crypto.tink>1.5.0</com.google.crypto.tink>
         <com.junit.jupiter.version>5.6.2</com.junit.jupiter.version>
         <org.jacoco.maven.plugin.version>0.8.5</org.jacoco.maven.plugin.version>
         <reactor.test.version>3.3.4.RELEASE</reactor.test.version>
